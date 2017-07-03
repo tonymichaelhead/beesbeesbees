@@ -1,4 +1,4 @@
-describe('Grub class functionality', function() {
+  describe('Grub class functionality', function() {
 
   verifyClass(Grub).followsPattern('pseudoclassical', {}, false);
 
