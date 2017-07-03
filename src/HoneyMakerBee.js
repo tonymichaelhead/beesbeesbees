@@ -4,8 +4,6 @@ var HoneyMakerBee = function() {
   this.job = 'make honey';
   this.color = 'yellow';
   this.honeyPot = 0;
-
-  
 };
 
 HoneyMakerBee.prototype = Object.create(Bee.prototype);
